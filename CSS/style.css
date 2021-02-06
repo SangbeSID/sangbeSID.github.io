@@ -275,7 +275,7 @@ h1, h2, h3, h4{
 
 /* Responsive config */
 @media (max-width: 800px){
-    .skills-general, .skills-programming, .skills-languages, .flex-item-right,
+    .skills-general, .skills-programming, .skills-languages, .flex-item-right, .profile
     .school-logo{
         flex: 100%;
         flex-direction: column;
